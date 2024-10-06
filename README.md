@@ -12,3 +12,5 @@ The main script, `cleanup_script.py`, performs several key functions:
 ## Dependencies
 
 The scripts primarily rely on the `pandas` library for data manipulation. Ensure you have it installed:
+
+`pip install pandas`
